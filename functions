@@ -1,0 +1,31 @@
+                Arithematic Operations
+     
+#python
+def fun(a,b):
+    print(a+b)
+    print(a-b)
+    print(a*b)
+    print(a/b)
+    print(a//b)
+    print(a%b)
+a=int(input())
+b=int(input())
+result=fun(a,b)
+
+    
+    Suare Root
+    
+#python
+def squ(n):
+    return n**2
+n=int(input())
+print(squ(n))
+
+
+     Cube Root
+    
+#python
+def cube(n):
+    return n**3
+n=int(input())
+print(cube(n))
