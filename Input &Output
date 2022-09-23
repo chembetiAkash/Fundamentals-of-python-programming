@@ -1,0 +1,56 @@
+   Hello world
+#python
+print("hello world")
+
+
+
+   hello world with tab
+#python
+print("hello world \t hello world")
+   
+   
+   
+    Hello world with new line
+#python
+print("hello world \nhello world")
+
+
+
+    Integer input
+#python
+n=int(input("enter the number:"))
+print(n)
+
+
+      float input
+#python program to float input
+n=float(input("enter a flaot number:"))
+print("%.2f"%n)
+
+
+
+       character input
+#python program to char input
+n=input("enter a char value:")
+print(n)
+     
+     
+     
+     String input
+#python program to take a string input
+str=input("enter a string:")
+print(str)
+
+
+
+      Ascii-1
+#python char to ascii value
+char=input("enter a character:")
+print(ord(char))
+
+
+
+     Ascii-2
+#python
+n=int(input("enter the number:"))
+print(chr(n))
